@@ -11,5 +11,10 @@ Ci-dessous le lien de ma documentation POSTMAN pour éxecuter les requètes CRUD
 # Lancement API : 
 
   * Aller dans le dossier cmd/restserver 
-  * executer un : "go clean" puis un "go build"
-  * TODO 
+  * Exécution : 
+    
+    * #Linux :
+    * commande : "sudo sh build.sh"
+    
+    * #Windows :
+    * Aller dans le dossier "cmd/restserver" et exécuter le fichier "restserver.exe"
