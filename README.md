@@ -1,4 +1,4 @@
-# TPrest
+# TPrest DERIEUX Théo 
 
 Voici mon projet d'API Rest en GO utilisant Bolt DB en base de données NoSQL. 
 
