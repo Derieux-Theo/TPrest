@@ -13,8 +13,8 @@ Ci-dessous le lien de ma documentation POSTMAN pour éxecuter les requètes CRUD
   * Aller dans le dossier cmd/restserver 
   * Exécution : 
     
-    ##Linux :
+    Linux :
     * commande : "sudo sh build.sh"
     
-    ##Windows :
+    Windows :
     * Aller dans le dossier "cmd/restserver" et exécuter le fichier "restserver.exe"
